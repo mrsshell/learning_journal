@@ -1,14 +1,13 @@
-<!DOCTYPE html>
-<h1> Daily Journal</h1>
+# LJ-code201-day2.md
 
-<h3> It Takes a Village</h3>
+ Daily Journal ,  It Takes a Village.
 
-<p> This was so easy to fugure out at home when I was just writing everything in notepad ++ </P>
+This was so easy to fugure out at home when I was just writing everything in notepad ++
 
-<p> So the journey continues thanks to the help from my friends here at the table.</P>
+So the journey continues thanks to the help from my friends here at the table.
 
-<p> One day I will own this process, because it is just a process- and with continued practice this will become second nature</P>
+One day I will own this process, because it is just a process- and with continued practice this will become second nature.
 
-<p> Man was not born walking.</P>
+ Man was not born walking.
 
-<h3>Thank God for Tomorrows!</h3>
+Thank God for Tomorrows!
