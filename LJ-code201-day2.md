@@ -2,7 +2,7 @@
 
  Daily Journal ,  It Takes a Village.
 
-This was so easy to fugure out at home when I was just writing everything in notepad ++
+This was so easy to figure out at home when I was just writing everything in notepad ++
 
 So the journey continues thanks to the help from my friends here at the table.
 
