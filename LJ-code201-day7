@@ -1,0 +1,7 @@
+# LJ-code201-day7.md
+Today was spent cleaning up the code on the cookies project and getting it to run or display in the browser. had to work on correcting spelling , syntax and mismatched parenthesis. Getting it to display was a win, and then I had help form Max on the math- all we did was pass a variable into the Math.random method to store the number.
+
+I followed the example on the code review, however there were a few errors that I had to work around to get it to display.
+I did some of my own revisions to make the code my own. I really like to write simple code that does many things- so that is the avenue that I would like to go down in the future.
+
+The data is entered now for the object constructor and it is ready to spit out new stores I think, but I'll look at it again tomorrow.
