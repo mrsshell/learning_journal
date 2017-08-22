@@ -1,0 +1,5 @@
+Today was not the best time for learning since I did not have very much sleep due to being very upset over turning in a piece of shitty work. I had something to on by- and I needed help and got basically the shit kicked out of me by one of the TAs who told me that I couldn't use the method that I was trying to work out- and he made me put everything to variables, and so nothing had scope- and I will have to go in and make everything into global variables instead of properties of the object.
+I got scolded for not submitting the pull requests- I thought I was submitting the work for my most recent merges - and didn't know what could be seen on the pull requests.
+
+I went to a JS meetup and really had a good time with the group. I met the organizer Wally I think, and he was very nice- I mentioned that I would like t have a coding mentor to help pace me through the learning process-  and give me ideas of how to apply the skills in the workplace sooner rather than later- because if things are going this way I will need to get a job.
+I did learn how to get my picture assets on the page !!! winner.
