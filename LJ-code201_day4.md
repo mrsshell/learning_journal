@@ -9,6 +9,6 @@ Today was totally AMAZING!!! I am so glad that I pent long hors last night getti
 Last night there were a few peeps from the 401 JavaScript class that were helping us fix our broken for-loops. They were so helpful.
 I want to be there one day when I can help like that. OMG they looked like they were getting lots out of it, even tough they probably had so much work to do. I love this coding community.
 
-Matt is awesome to work with- and TG everything worked. 
+Matt is awesome to work with- and TG everything worked.
 
 I am going to work on some plans tonight to separate the elements in the CSS page and have a plan for how I want to move things around.
